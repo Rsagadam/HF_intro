@@ -6,7 +6,8 @@ Text Completion: Predicts the next word or phrase to complete a given sentence o
 Text Prediction: Provides predictions for missing or masked words in a sentence.
 Customizable: Easily adjust the model for specific use cases or domains.
 Pre-trained Model: Utilizes powerful language models from Hugging Face's transformers library, reducing the need for heavy training.
-🚀 Installation
+
+# 🚀 Installation
 Prerequisites
 Make sure you have Python 3.6+ installed. You can install the required dependencies via pip using the requirements.txt file.
 
@@ -18,7 +19,8 @@ Alternatively, you can install the core dependencies directly with:
 bash
 Copy
 pip install torch transformers pandas
-📦 Usage
+
+##📦 Usage
 # Example Code
 You can use this model by providing a sentence or text and getting back the completed or predicted version of it.
 
@@ -44,7 +46,8 @@ Output: The model outputs possible predictions for the missing or masked word(s)
 Model Type: [Insert the model type you used, e.g., BERT, GPT-2]
 Library Used: Hugging Face's transformers
 Pretrained Model: Pre-trained on large text corpora, fine-tuned for various NLP tasks.
-🧑‍🤝‍🧑 Contributing
+
+# 🧑‍🤝‍🧑 Contributing
 Contributions are welcome! If you'd like to improve or extend this model, feel free to open a pull request. If you encounter any issues, please open an issue on GitHub.
 
 
